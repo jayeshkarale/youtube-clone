@@ -1,5 +1,4 @@
 # youtube-clone
-# 🎥 YouTube Clone by Jayesh Karale
 
 A modern, responsive front-end clone of YouTube built using **HTML**, **CSS**, and **JavaScript**. It mimics the layout and basic UI features of the popular video-sharing platform.
 
