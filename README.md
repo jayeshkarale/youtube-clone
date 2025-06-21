@@ -3,12 +3,13 @@
 A modern, responsive front-end clone of YouTube built using **HTML**, **CSS**, and **JavaScript**. It mimics the layout and basic UI features of the popular video-sharing platform.
 
 ---
-
-## 📸 Demo
+## 🌐 Live Demo
 
 [Click here to view the live project](https://jayeshkarale.github.io/youtube-clone/)
-🔗 
-🖼️ 
+
+## 📸 Preview
+
+![YouTube Clone Screenshot](assets/preview.png)
 
 ---
 
