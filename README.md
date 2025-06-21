@@ -6,7 +6,8 @@ A modern, responsive front-end clone of YouTube built using **HTML**, **CSS**, a
 
 ## 📸 Demo
 
-🔗 https://jayeshkarale.github.io/youtube-clone/
+[Click here to view the live project](https://jayeshkarale.github.io/youtube-clone/)
+🔗 
 🖼️ 
 
 ---
