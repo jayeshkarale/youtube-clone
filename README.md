@@ -5,9 +5,7 @@ A modern, responsive front-end clone of YouTube built using **HTML**, **CSS**, a
 ---
 ## 🌐 Live Demo
 
-🔗[Click here to view the live project](https://jayeshkarale.github.io/youtube-clone/)
-
-🔗[Netlify Link](https://jayesh-youtube.netlify.app/)
+🔗[Netlify Link](https://agroculture-web.netlify.app/)
 
 ## 📸 Preview
 
